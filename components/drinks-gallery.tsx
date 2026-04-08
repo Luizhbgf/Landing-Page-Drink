@@ -6,43 +6,43 @@ import Image from "next/image";
 
 const DRINKS = [
   {
-    name: "Freedom Red",
-    description: "Vodka, licor de frutas vermelhas, espuma de limao",
+    name: "Sense Red",
+    description: "Vodka, licor de frutas vermelhas, espuma de laranja",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-K8SQHNniySQT2D84s4cMMl9B1PeMDy.png",
   },
   {
-    name: "Tropical Sunset",
-    description: "Rum, suco de laranja, espuma tropical",
+    name: "Mia",
+    description: "Rum, maracuja, espuma de baunilha",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-LXkAV3MnwH4hlOpKe8OFaycgz5Ggk3.png",
   },
   {
-    name: "Maracuja Dreams",
-    description: "Cachaca, maracuja, creme de leite",
+    name: "Villans",
+    description: "Frutasa, manjericão, gin e espuma de baunilha",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-7cqfDAvCVCSfS8z86tvU9lUpaAEc91.png",
   },
   {
-    name: "Blue Paradise",
-    description: "Gin, curacao blue, espuma de limao siciliano",
+    name: "Passione",
+    description: "Vodka, curacao blue, espuma de gengibre",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-KyoONbCGQwoqYjfQ5pwxITERGlH7j7.png",
   },
   {
-    name: "Sunset Spice",
-    description: "Tequila, laranja, especiarias, ervas frescas",
+    name: "One Night",
+    description: "Cachaca, maracuja, vinho tinto",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-E8k1T8RC2OAdQ4NjWXYLUVSNKf9qi6.png",
   },
   {
-    name: "Rose Garden",
-    description: "Vodka, licor de rosas, frutas vermelhas",
+    name: "La Dolce Vita",
+    description: "Vodka, frutas vermelhas",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-9NPnafO1KaH2555TKUdJCrKCOaaBUx.png",
   },
   {
-    name: "Orange Bliss",
-    description: "Rum, laranja, espuma de baunilha",
+    name: "Free Beach",
+    description: "Vodka, Frutas Amarelas, espuma de laranja",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-vPr3KDrbIDJ6cqQNFoUkzi31r16Ne3.png",
   },
   {
-    name: "Pimenta Brasileira",
-    description: "Cachaca, mel, pimenta dedo-de-moca",
+    name: "War",
+    description: "Maracuja, Whisky, Tangerina, Casmpari",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-zX5ObDLu1HDNaKJZ8lsjgMx1rEwe69.png",
   },
 ];
